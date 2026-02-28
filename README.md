@@ -7,14 +7,9 @@ To provide a data-driven analysis of Goa’s tourism landscape (2019–2022) usi
 
 ## Key Analytical Objectives
 -What is the total number of tourists? 
-
 -What is the average spend per trip?
-
 -What is the average daily spend?
-
 -What is the overall average feedback score?
-
-
 - Dashboard Interaction <a href="https://github.com/Ananya2930/Goa-Tourism-Dashboard/blob/main/Dashboard%20img.png">View Dashboard</a>
 
 ## Dashboard
